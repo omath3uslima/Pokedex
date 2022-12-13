@@ -4,7 +4,7 @@
 }
 
 .content {
-    padding: 1rem;
+    padding: 2rem;
 }
 
 .content h1 {
@@ -30,13 +30,24 @@
 .pokemon .number {
     color: #000;
     opacity: .3;
-    text-align: right;
+    float: right;
 }
 
 .pokemon .detail {
     display: flex;
     flex-direction: row;
 }
+
+ol {
+    list-style-type: none;
+    }
+
+    .pokemon .types {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+
+    }
 
 
 .pokemon .detail img {

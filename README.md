@@ -17,7 +17,7 @@ Evento exclusivo da Digital Innovation One (DIO)
 <br>
 
 <p align="center">
-  <img alt="POKEDEX" src=".github/Preview.jpg" width="100%">
+  <img alt="POKEDEX" src="https://github.com/omath3uslima/Pokedex/blob/main/assets/pokedex%3Bpng" width="100%">
 </p>
 
 ## 🚀 Tecnologias

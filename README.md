@@ -3,6 +3,7 @@
 <p align="center">
 Evento exclusivo da Digital Innovation One (DIO)
 </p>
+<p align="center">https://omath3uslima.github.io/Pokedex/</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
